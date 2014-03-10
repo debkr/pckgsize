@@ -1,0 +1,7 @@
+Package: howbigismypackage
+Title: How big is my package?
+Version: 1.0
+Author: Nick Carchedi
+Maintainer: Nick Carchedi <nick.carchedi@gmail.com>
+Description: Counts the total number of lines of R code in a package.
+License: GPL-2
